@@ -1,0 +1,9 @@
+[game]
+id = "7a4e8c92-3b1d-4f6a-9e2c-8d5f1a3b7c04"
+version = "0.1.0"
+handle = "chrono-prism"
+genres = ["puzzle", "arcade", "action"]
+audience = "everyone"
+ai = "generative"
+orientation = "landscape"
+inputs = ["keyboard", "mouse", "gamepad", "touch"]
