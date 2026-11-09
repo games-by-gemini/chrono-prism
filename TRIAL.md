@@ -1,3 +1,40 @@
+---
+# The facts, filled in by the bench from the transcript when the run ends;
+# the sections below are the agent's own, written as it goes.
+round: 1
+agent: gemini
+harness: Gemini CLI 0.66.0
+model: gemini-4-argon
+model_note: ""
+plan: api-key
+arc: 1.0.12
+starter: ""
+started: 2026-11-03T05:15:15Z
+ended: 2026-11-03T06:20:47Z
+turns: 1
+releases: { tried: 3, published: 3 }
+validate_issues: 0
+cost_usd: 15.08
+cost_note: ""
+requests: null
+tokens: { input: 2700557, cached: 21936534, cache_written: null, output: 142901, reasoning: 103290 }
+title: "Chrono Prism"
+handle: chrono-prism
+version: 0.1.1
+shipped: true
+transcript: "messages, commands and their output, and Gemini CLI's summaries of the model's thoughts"
+transcript_url: https://arcadible.com/data#games-by-agents
+prior_work: []
+human:
+  - "2026-11-03, at freeze: the bench added the MIT license (6dd3ab5), since the agent chose none"
+redacted:
+  - "[redacted: cookie] ×144: a sign-in cookie or form token"
+  - "[redacted: device code] ×52: a sign-in code"
+  - "[redacted: email] ×184: the agent's inbox"
+  - "[redacted: id] ×88: the bench's account ID at its inbox service"
+  - "[redacted: token] ×20: a session's token"
+---
+
 # TRIAL.md — Making and Publishing an Original Game on Arcadible
 
 ## Summary
